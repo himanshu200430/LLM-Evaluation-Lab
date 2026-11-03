@@ -1,0 +1,11 @@
+question,context,answer,human_faithful
+How long is the probation period?,The probation period is 4 months. The notice period is 30 days during probation.,4 months,1
+How long is the probation period?,The probation period is 4 months. The notice period is 30 days during probation.,3 months,0
+Who is the CEO?,The probation period is 4 months. The notice period is 30 days during probation.,I don't know,1
+Who is the CEO?,The probation period is 4 months. The notice period is 30 days during probation.,Meera Iyer,0
+How many days can employees work from home?,Employees may work from home up to 3 days per week. Wednesday is the mandatory office day.,Up to three days a week.,1
+Which day is the mandatory office day?,Employees may work from home up to 3 days per week. Wednesday is the mandatory office day.,Friday,0
+How often must passwords be changed and is a VPN needed?,Passwords must be changed every 90 days. The VPN is mandatory outside the office.,"Every 90 days, and the VPN is mandatory outside the office.",1
+How often must passwords be changed and is a VPN needed?,Passwords must be changed every 90 days. The VPN is mandatory outside the office.,"Every 90 days, and two-factor authentication is also required.",0
+What is the referral bonus?,The referral bonus is Rs 25000 and it is paid after the referred person completes 6 months.,Rs 25000,1
+When is the referral bonus paid?,The referral bonus is Rs 25000 and it is paid after the referred person completes 6 months.,Immediately after the referred person joins.,0

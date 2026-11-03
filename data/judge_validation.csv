@@ -1,0 +1,16 @@
+question,expected_answer,model_answer,human_correct
+What is the capital of France?,Paris,The capital of France is Paris.,1
+Who wrote Romeo and Juliet?,William Shakespeare,Shakespeare,1
+Who is known as the Father of the Nation in India?,Mahatma Gandhi,Gandhi ji,1
+What is the speed of light in a vacuum?,about 300000 km per second,299792 km/s,1
+What is the capital of Australia?,Canberra,Sydney,0
+Who painted the Mona Lisa?,Leonardo da Vinci,Michelangelo,0
+Who was the first person to walk on Mars?,No one has walked on Mars yet,Neil Armstrong,0
+Who was the first person to walk on Mars?,No one has walked on Mars yet,No human has ever walked on Mars,1
+What is the time complexity of binary search?,O(log n),O(n),0
+What is the HTTP status code for Not Found?,404,The status code is 404 Not Found.,1
+What is the powerhouse of the cell?,Mitochondria,The nucleus,0
+What is the square root of 144?,12,It is 14,0
+What is the chemical formula of table salt?,NaCl,Sodium chloride (NaCl),1
+Who wrote the Indian national anthem?,Rabindranath Tagore,Bankim Chandra Chatterjee,0
+Which gas do plants absorb for photosynthesis?,Carbon dioxide,Oxygen,0

@@ -1,0 +1,18 @@
+question,expected_answer,source_doc
+In which year was Zentra Labs founded?,2019,zentra_handbook.txt
+Who founded Zentra Labs?,Meera Iyer,zentra_handbook.txt
+What is the name of the internal chat tool at Zentra Labs?,Zentra Talk,zentra_handbook.txt
+What are the standard working hours at Zentra Labs?,10:00 to 18:30,zentra_handbook.txt
+How many days of paid leave does an employee get per year?,24,zentra_handbook.txt
+How many days of paid leave can be carried forward?,6,zentra_handbook.txt
+How many days per week can employees work from home?,3,zentra_handbook.txt
+Which day is the mandatory office day?,Wednesday,zentra_handbook.txt
+Within how many days must expense claims be submitted?,21 days,zentra_handbook.txt
+What is the meal limit per day during business travel?,Rs 900,zentra_handbook.txt
+What is the yearly learning budget per employee?,"Rs 40,000",zentra_handbook.txt
+How long is the probation period?,4 months,zentra_handbook.txt
+How often must passwords be changed?,90 days,zentra_handbook.txt
+Within how many hours must a security incident be reported?,2 hours,zentra_handbook.txt
+How many approvals does a code change need before merging?,2,zentra_handbook.txt
+What is the weekly on-call allowance?,"Rs 3,000",zentra_handbook.txt
+What is the referral bonus amount?,"Rs 25,000",zentra_handbook.txt
