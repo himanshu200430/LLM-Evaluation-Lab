@@ -1,0 +1,11 @@
+streamlit
+pandas
+pydantic>=2
+python-dotenv
+langchain-openai
+langchain-core
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+pytest
